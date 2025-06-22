@@ -1,0 +1,9 @@
+dotenv
+langchain_google_genai
+langchain_community
+pymongo
+streamlit
+langchain_community
+chromadb
+langchain-chroma
+pyngrok
